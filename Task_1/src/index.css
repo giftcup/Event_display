@@ -37,7 +37,6 @@ body {
 }
 
 .event {
-  width: 90%;
   display: flex;
   padding: 2em 0 3em 0;
   border-bottom: 1px solid #fff;
